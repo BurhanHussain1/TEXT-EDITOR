@@ -5,10 +5,14 @@
 
 <h2>Features</h2>
 <ul>
-<li><strong>Console-Based Text Editing:</strong> Write and edit text directly in the console environment.</li>   
-<li><strong>File Saving and Loading:</strong> Save the written content to a file and reload it for further editing.</li>
-<li><strong>Suggestion Mechanism:</strong> As users type, the editor suggests words based on a dictionary file.</li>
-<li><strong>Huffman Encoding:</strong> Encode and decode sentences using Huffman encoding for data compression.</li>
+<li><strong>Console-Based Text Editing:</strong></li> 
+      Write and edit text directly in the console environment.
+<li><strong>File Saving and Loading:</strong> </li>
+      Save the written content to a file and reload it for further editing.
+<li><strong>Suggestion Mechanism:</strong> </li>
+      As users type, the editor suggests words based on a dictionary file.
+<li><strong>Huffman Encoding:</strong> </li>
+      Encode and decode sentences using Huffman encoding for data compression.
 </ul>
 
 <h2>Getting Started</h2>
@@ -17,13 +21,13 @@ Run this code in visual studio or any other C++ compiler.
 <h2>How to Use</h2>
 <ol>
 <li><strong>Writing and Editing Text:</strong></li>
-     <p>Use the console interface to write and edit text.</p>
+      Use the console interface to write and edit text.
 <li><strong>Saving and Loading:</strong></li>
-     <p>Save the current content to a file and reload it for future editing.</p>
+      Save the current content to a file and reload it for future editing.
 <li><strong>Suggestion Mechanism:</strong></li>
-     <p>As you type, the editor provides word suggestions based on a predefined dictionary.</p>
+      As you type, the editor provides word suggestions based on a predefined dictionary.
 <li><strong>Huffman Encoding:</strong></li>
-     <p>Utilize the encoding and decoding functionality for sentences using Huffman encoding.</p>
+      Utilize the encoding and decoding functionality for sentences using Huffman encoding.
 </ol>
 
 <h2>Screenshots</h2>

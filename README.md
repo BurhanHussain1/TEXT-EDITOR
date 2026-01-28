@@ -119,5 +119,5 @@ No license has been added yet. If you plan to share this publicly, consider addi
 
 ## Author
 
-Made by **Burhan Hussain** (edit this section if you want different attribution).
+Made by **Burhan Hussain**.
 
